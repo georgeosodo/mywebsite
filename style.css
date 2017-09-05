@@ -1,0 +1,307 @@
+.home{
+
+	  background-image: url("tp.jpg");
+	  background-size: 1500px 1000px;*/
+	  width: 80%;
+	  background-repeat: no-repeat;
+	  background-position: top center;
+	  
+	      
+
+
+	 }
+p{
+	font-size: 25px;
+	font-family: arial;
+
+	font-style: italic;
+	z-index: 2;
+	color: #fff;
+}
+h1{
+color: #fff;
+font-size:60px;
+position: relative;
+right: 0px;
+top: 0px;
+
+}
+
+.about{
+color: #fff;
+font-size:40px;
+position: relative;
+right: 0px;
+top: 0px;
+
+}
+
+.text
+{
+
+	border: 2px;
+	border-color: #111;
+	border-radius: 5%;
+	background-color: #3333ff;
+	width: 30%;
+	color: white;
+	float: left;
+	margin-right: 100px;
+	margin-bottom: 10px;
+	margin-left: 100px;
+	position: relative;
+	top: 100px;
+
+}
+
+.text1
+{
+
+	border: 2px;
+	border-color: #111;
+	border-radius: 5%;
+	background-color: #3333ff;
+	width: 300px;
+	height: 200px;
+	color: white;	
+	margin-right: 100px;
+	margin-bottom: 20px;
+	margin-left: 30px;
+	position: relative;
+	top: 60px;
+	left: 700px;
+
+
+}
+
+h2{
+color: #fff;
+font-size:30px;
+position: relative;
+top: 0px;
+right: 0px;
+
+}
+ol
+{
+	list-style-type: lower-roman;
+	font-size: 25px;
+	font-family: arial;
+	font-style: italic;
+	z-index: 2;
+	color: #fff;
+}
+
+ul {
+    list-style-type: none;   
+    
+    overflow: hidden;
+    background-color: #111;
+    position: absolute;
+   /* left: 550px;*/
+    top: 0px;
+    width: 95%;
+    font-family: arial;
+    font-size: 40;
+    align-items: center;
+
+}
+
+li {
+    float:left;
+}
+
+li a {
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #333;
+}
+.container{
+  position: relative;
+  margin-left: auto;
+  margin-top: 10%;
+  width: 60%;    
+  border-radius: 55px;
+  top: 150px;
+
+  
+}
+a {
+    display: block;    
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+.cave img{
+	position: relative; 
+	top:100px; 
+	width: 350px; 
+	border-radius: 50%; 
+	margin-left: 100px;
+	float: left;
+	/*background-image: url("kg.jpg");*/
+	background-size: 350px ;
+	background-repeat: no-repeat;
+    98:54:1b:45:83:00 
+}
+
+
+.cavemore img{
+	position: relative; 
+	top:100px; 
+	width: 350px; 
+	height: 350px;
+	border-radius: 50%; 
+	margin-left: 100px;
+	float: left;
+	/*background-image: url("kg.jpg");*/
+	background-size: 350px ;
+	background-repeat: no-repeat;
+    98:54:1b:45:83:00 
+}
+
+.icons img
+{
+   height: 30px;
+   position: relative;
+   top: 100px;
+   float: left;
+   padding: 5px;   
+   left: 40%;
+}
+
+.iconshome img
+{
+   height: 30px;
+   position: relative;
+   top: 250px;
+   float: left;
+   padding: 5px;   
+   left: 40%;
+}
+
+.icons img:hover {
+    background-color: #008CBA;
+    color: white;
+    position: relative;
+    
+
+}
+
+.iconshome img:hover {
+    background-color: #008CBA;
+    color: white;
+    position: relative;
+    
+
+}
+
+.button {
+    /*background-color: #4CAF50; /* Green */*/
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+
+.button2 {
+    background-color: #3333ff;
+    color: white; 
+    border: 2px solid #008CBA;
+    position: relative;
+    width: 250px;
+    left: 20px;
+}
+
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+    position: relative;
+    
+
+}
+
+.button3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #f44336;
+}
+
+.button3:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+.button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+
+.button4:hover {background-color: #e7e7e7;}
+
+.button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+}
+
+.button5:hover {
+    background-color: #555555;
+    color: white;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+    font-size: 38px;
+    font-style: italic;
+    width: 500px;
+    margin: 0.25em 0;
+    /*padding: 0.35em 40px;*/
+    line-height: 1.45;
+    position: relative;
+    color: #383838;
+    position: absolute;
+    top: 600px;
+    padding-left: 40px;
+}
+
+blockquote:before {
+    display: block;
+    padding-left: 10px;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    color: #7a7a7a;
+}
+
+blockquote cite {
+    color: #999999;
+    font-size: 14px;
+    display: block;
+    margin-top: 5px;
+}
+
+blockquote cite:before {
+    content: "\2014 \2009";
+}
